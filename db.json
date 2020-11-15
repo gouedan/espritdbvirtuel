@@ -1,0 +1,736 @@
+[
+    {
+        "news": [
+            {
+                "id": 1,
+                "titre": "Explosion à Beyrouth: Georges, la lumière du Liban"
+            },
+            {
+                "id": 2,
+                "titre": "Développement des compétences: Comment réussir sa carrière"
+            },
+            {
+                "id": 3,
+                "titre": "LES AUTRES & MOI: LA SOLITUDE, Comment en sortir"
+            }
+        ],
+        "magazine": [
+            {
+                "id": 1,
+                "titre": "Esprit N° 26 de Août 2020",
+                "sous-titre": "",
+                "description": "<br>Pensons Positif : Tenues Scolaires, Et si nous valorisions nos pagnes?</br><br>Dossier : Influenceurs Web, Quelle Crédibilité?</br><br>Dossier : Influenceurs Web, Quelle Crédibilité?</br>",
+                "resume": "",
+                "numero": 1,
+                "cover": [
+                    "upload/magazines/couv/esprit26.jpg"
+                ],
+                "image": [
+                    ""
+                ],
+                "pdf": [
+                    ""
+                ],
+                "video": "",
+                "date-insertion": "",
+                "date-publication": ""
+            },
+            {
+                "id": 2,
+                "titre": "Esprit N° 25 de Mai 2020",
+                "sous-titre": "b",
+                "description": "<br>Pensons Positif : Covid-19, Une Remise En Cause De Notre Humanité</br><br>Dossier : Covid-19, De Wuhan à Abidjan</br><br></br><br>Les Autres Et Moi : Crise De La Covid-19, Comment Réussir Le Déconfinement</br>",
+                "resume": "b",
+                "numero": 1,
+                "cover": [
+                    "upload/magazines/couv/esprit25.jpg"
+                ],
+                "image": [
+                    "aaa"
+                ],
+                "pdf": [
+                    "aaa"
+                ],
+                "video": "b",
+                "date-insertion": "b",
+                "date-publication": "b"
+            },
+            {
+                "id": 3,
+                "titre": "Esprit N° 24 de Mars 2020",
+                "sous-titre": "b",
+                "description": "<br>Dossier : Television Africaine, Refuser l’aliénation</br><br>Les autres et moi : Vie Communautaire, Savoir partir pour savoir revenir</br><br>Mind Set : Desespoir, Comment reprendre goût a la vie</br>",
+                "resume": "b",
+                "numero": 1,
+                "cover": [
+                    "upload/magazines/couv/esprit24.jpg"
+                ],
+                "image": [
+                    "aaa"
+                ],
+                "pdf": [
+                    "aaa"
+                ],
+                "video": "b",
+                "date-insertion": "b",
+                "date-publication": "b"
+            },
+            {
+                "id": 4,
+                "titre": "Esprit N° 23 de Janvier 2020",
+                "sous-titre": "b",
+                "description": "<br>Dossier : Développement de l’Afrique, La jeunesse aux avant-postes</br><br>Spiritualité : Nouvel an, Enseignements et secrets pour une année hégirienne bénie</br><br>Mind Set : Nervosité – Impulsivité, astuces pour garder son calme</br>",
+                "resume": "b",
+                "numero": 1,
+                "cover": [
+                    "upload/magazines/couv/esprit23.jpeg"
+                ],
+                "image": [
+                    "aaa"
+                ],
+                "pdf": [
+                    "aaa"
+                ],
+                "video": "b",
+                "date-insertion": "b",
+                "date-publication": "b"
+            },
+            {
+                "id": 5,
+                "titre": "Esprit N° 22 de Novembre 2019",
+                "sous-titre": "b",
+                "description": "<br>Dossier : Développement de l’Afrique, Femme en avant</br><br>Spiritualité : Mariage, Les recommandations de la bible face aux menaces de divorce</br><br>Mind Set : Tendance sucidaire, Se sortir d’une “drogue”</br>",
+                "resume": "b",
+                "numero": 1,
+                "cover": [
+                    "upload/magazines/couv/esprit22.jpg"
+                ],
+                "image": [
+                    "aaa"
+                ],
+                "pdf": [
+                    "aaa"
+                ],
+                "video": "b",
+                "date-insertion": "b",
+                "date-publication": "b"
+            },
+            {
+                "id": 6,
+                "titre": "Esprit N° 21 de Septembre 2019",
+                "sous-titre": "b",
+                "description": "<br>Dossier : Développement de l’Afrique, et si nous privilégions nos cultures</br><br>Mind Set : Déception amoureuse, le secret pour repartir de zéro</br><br>Focus Esprit : Khalil Hesné, le mendiant devenu milliardaire</br>",
+                "resume": "b",
+                "numero": 1,
+                "cover": [
+                    "upload/magazines/couv/esprit21.jpg"
+                ],
+                "image": [
+                    "aaa"
+                ],
+                "pdf": [
+                    "aaa"
+                ],
+                "video": "b",
+                "date-insertion": "b",
+                "date-publication": "b"
+            },
+            {
+                "id": 7,
+                "titre": "Esprit N° 20 de Juillet 2019",
+                "sous-titre": "b",
+                "description": "<br>Pensons Positif : Tolérance, l’exception africaine</br><br>Esprit d’Entreprise : Management Participatif, la consequence d’une equipe efficace</br>",
+                "resume": "b",
+                "numero": 1,
+                "cover": [
+                    "upload/magazines/couv/esprit20.jpg"
+                ],
+                "image": [
+                    "aaa"
+                ],
+                "pdf": [
+                    "aaa"
+                ],
+                "video": "b",
+                "date-insertion": "b",
+                "date-publication": "b"
+            },
+            {
+                "id": 8,
+                "titre": "Esprit N° 19 de Mai 2019",
+                "sous-titre": "b",
+                "description": "<br>Dossier : Formation en ligne, un booster de carrière</br><br>Mind Set : Depression, Reconnaitre les signe et les symptômes…</br><br>Spiritualité : Faiblesses Charnelles, Comment vaincre la fornication?</br>",
+                "resume": "b",
+                "numero": 1,
+                "cover": [
+                    "upload/magazines/couv/esprit19.jpg"
+                ],
+                "image": [
+                    "aaa"
+                ],
+                "pdf": [
+                    "aaa"
+                ],
+                "video": "b",
+                "date-insertion": "b",
+                "date-publication": "b"
+            },
+            {
+                "id": 9,
+                "titre": "Esprit N° 18 de Mars 2019",
+                "sous-titre": "b",
+                "description": "<br>Dossier : diaspora africaine le retour gagnant</br><br>Esprit d’entreprise : a concurrence la face cachée de la réussite ?</br><br>Spiritualité de l’obligation de la dîme que dit la bible ?</br>",
+                "resume": "b",
+                "numero": 1,
+                "cover": [
+                    "upload/magazines/couv/esprit18.jpg"
+                ],
+                "image": [
+                    "aaa"
+                ],
+                "pdf": [
+                    "aaa"
+                ],
+                "video": "b",
+                "date-insertion": "b",
+                "date-publication": "b"
+            },
+            {
+                "id": 10,
+                "titre": "Esprit N° 17 de Janvier 2019",
+                "sous-titre": "b",
+                "description": "<br>Dossier : distribution en Afrique la digitalisation des achats</br><br>Les autres et moi : difficultés existentielles aucune raison ne justifie le suicide</br><br>Les autres et moi : difficultés existentielles aucune raison ne justifie le suicide</br>",
+                "resume": "b",
+                "numero": 1,
+                "cover": [
+                    "aaa"
+                ],
+                "image": [
+                    "aaa"
+                ],
+                "pdf": [
+                    "aaa"
+                ],
+                "video": "b",
+                "date-insertion": "b",
+                "date-publication": "b"
+            },
+            {
+                "id": 11,
+                "titre": "Esprit N° 16 de Décembre 2018",
+                "sous-titre": "b",
+                "description": "<br>Dossier : droits humains en Afrique de la nécessité d’une réforme globale</br><br>Spiritualité comment prier avec efficacité ? Le pécheur peut-il être exaucé ?></br><br>Cuisine & Diet : réjouissances des fêtes de fin d’année en version allégée !</br>",
+                "resume": "b",
+                "numero": 1,
+                "cover": [
+                    "upload/magazines/couv/esprit16.jpg"
+                ],
+                "image": [
+                    "aaa"
+                ],
+                "pdf": [
+                    "aaa"
+                ],
+                "video": "b",
+                "date-insertion": "b",
+                "date-publication": "b"
+            },
+            {
+                "id": 12,
+                "titre": "Esprit N°13 de Juin – Juillet 2018",
+                "sous-titre": "b",
+                "description": "<br>Rencontre d’esprit : Alain KOUADIO, Président</br><br>Fondateur du Groupe KAYDAN, Meilleur entrepreneur de l’année</br><br>Spiritualité : Marketing religieux , quel est le regard de l’église ?</br>",
+                "resume": "b",
+                "numero": 1,
+                "cover": [
+                    "upload/magazines/couv/esprit13.jpg"
+                ],
+                "image": [
+                    "aaa"
+                ],
+                "pdf": [
+                    "aaa"
+                ],
+                "video": "b",
+                "date-insertion": "b",
+                "date-publication": "b"
+            },
+            {
+                "id": 13,
+                "titre": "Esprit N° 12 d’Avril 2018",
+                "sous-titre": "b",
+                "description": "<br>Rencontre d`esprit/Stanislas ZÉZÉ PDG de Bloomfield Investment Corporation: « Il faut un état d`esprit de gagnant pour entreprendre et réussir »</br><br>Spiritualité: L`islam et le maraboutage</br><br>Les autres et moi: Marginalisation des femmes</br><br>Pensons positif/ Prix BJKD: Un coup de pouce aux jeunes</br>",
+                "resume": "b",
+                "numero": 1,
+                "cover": [
+                    "upload/magazines/couv/esprit12.jpg"
+                ],
+                "image": [
+                    "aaa"
+                ],
+                "pdf": [
+                    "aaa"
+                ],
+                "video": "b",
+                "date-insertion": "b",
+                "date-publication": "b"
+            },
+            {
+                "id": 14,
+                "titre": "Esprit N° 11 de Février 2018",
+                "sous-titre": "b",
+                "description": "<br>Rencontre d`esprit/Dominique OUATTARA Première Dame de Côte d’Ivoire: « Faire pour les enfants ce que j`aurais fait pour mes propres enfants » Elle se confie en exclusivité à Esprit Magazine</br>Spiritualité;/Christianisme: La jeunesse de l`âme<br></br><br>Pensons positif: Forum de saint-Louis l`Afrique pour un monde repensé</br><br>Mindset: sages décisions comment les prendre?</br>",
+                "resume": "b",
+                "numero": 1,
+                "cover": [
+                    "upload/magazines/couv/esprit11.jpg"
+                ],
+                "image": [
+                    "aaa"
+                ],
+                "pdf": [
+                    "aaa"
+                ],
+                "video": "b",
+                "date-insertion": "b",
+                "date-publication": "b"
+            },
+            {
+                "id": 15,
+                "titre": "Esprit N° 10 de Décembre 2017",
+                "sous-titre": "b",
+                "description": "<br>Spiritualité / charité Chrétienne : Les principes de l’amour</br><br>Islam : faut-il célébrer Neël ?</br><br>Mindset / nos défauts : comment les canaliser ?</br>",
+                "resume": "b",
+                "numero": 1,
+                "cover": [
+                    "upload/magazines/couv/esprit10.jpg"
+                ],
+                "image": [
+                    "aaa"
+                ],
+                "pdf": [
+                    "aaa"
+                ],
+                "video": "b",
+                "date-insertion": "b",
+                "date-publication": "b"
+            },
+            {
+                "id": 16,
+                "titre": "Esprit N° 09 d’Octobre 2017",
+                "sous-titre": "b",
+                "description": "<br>Spiritualité : l’adultère pardonner ou divorcer ?</br><br>Les autres & moi victime des rumeurs, comment sauver son image ?</br><br>Mindset : l’agressivité comment y faire face ?</br><br>Rencontre d’esprit : Bruno Koné Ministre de la Communication, de l’Economie Numérique et de la Poste / Porte-parole du Gouvernement de Côte d’Ivoire / ALLO, ICI BRUNO !</br>",
+                "resume": "b",
+                "numero": 1,
+                "cover": [
+                    "upload/magazines/couv/esprit9.jpg"
+                ],
+                "image": [
+                    "aaa"
+                ],
+                "pdf": [
+                    "aaa"
+                ],
+                "video": "b",
+                "date-insertion": "b",
+                "date-publication": "b"
+            },
+            {
+                "id": 17,
+                "titre": "Esprit N° 08 d’Aout 2017",
+                "sous-titre": "<br>Mindset : la maladie apprendre à vivre avec</br><br>Les autres & moi : dire non techniques pour y arriver sans vexer</br><br>Spiritualité : la mendicité que dit l’islam ?</br><br>Didier Acouétey : président d’Africsearch / Chasseur de têtes comment s’y prend-il ?</br>",
+                "description": "b",
+                "resume": "b",
+                "numero": 1,
+                "cover": [
+                    "upload/magazines/couv/esprit8.jpg"
+                ],
+                "image": [
+                    "aaa"
+                ],
+                "pdf": [
+                    "aaa"
+                ],
+                "video": "b",
+                "date-insertion": "b",
+                "date-publication": "b"
+            },
+            {
+                "id": 18,
+                "titre": "Esprit N° 07 de Juin 2017",
+                "sous-titre": "b",
+                "description": "<br>Dossier : distribution en Afrique la digitalisation des achats</br><br>Janine KACOU DIAGOU – Jean-Louis BILLON – Daouda COULIBALY – Rama YADE – Anne Désirée OULOTO – Alpha Blondy</br>",
+                "resume": "b",
+                "numero": 1,
+                "cover": [
+                    "upload/magazines/couv/esprit8.jpg"
+                ],
+                "image": [
+                    "aaa"
+                ],
+                "pdf": [
+                    "aaa"
+                ],
+                "video": "b",
+                "date-insertion": "b",
+                "date-publication": "b"
+            },
+            {
+                "id": 19,
+                "titre": "Esprit N° 06 d’Avril 2017",
+                "sous-titre": "b",
+                "description": "<br>Dossier : femme stérile ,mère dans l’âme</br><br>Spiritualité : résurrection du Christ mystère de miséricorde</br><br>Santé et bien-être : ballonnements ces plantes qui soulagent</br><br>Rencontre d’esprit : Anne Ouloto,ministre de la salubrité, combative</br> ",
+                "resume": "b",
+                "numero": 1,
+                "cover": [
+                    "upload/magazines/couv/esprit7.jpg"
+                ],
+                "image": [
+                    "aaa"
+                ],
+                "pdf": [
+                    "aaa"
+                ],
+                "video": "b",
+                "date-insertion": "b",
+                "date-publication": "b"
+            },
+            {
+                "id": 20,
+                "titre": "Esprit N° 05 de Février 2017",
+                "sous-titre": "b",
+                "description": "<br>Rencontre d`esprit/ Daouda Coulibaly( Directeur général de la SIB): ” Tout est possible!!!”</br><br>Dossier / Working Girls: Elles émergent…</br><br>– Cuisine et Diet/Mince: le régime idéal</br><br>– Mind Set/ L`humiliation: Ecouter pour comprendre parler pour guêrir</br><br>Rencontre d`esprit/ Daouda Coulibaly( Directeur général de la SIB): ” Tout est possible!!!”</br><br></br><br></br>",
+                "resume": "b",
+                "numero": 1,
+                "cover": [
+                    "upload/magazines/couv/esprit5.jpg"
+                ],
+                "image": [
+                    "aaa"
+                ],
+                "pdf": [
+                    "aaa"
+                ],
+                "video": "b",
+                "date-insertion": "b",
+                "date-publication": "b"
+            },
+            {
+                "id": 21,
+                "titre": "Esprit N° 04 de Décembre 2016",
+                "sous-titre": "b",
+                "description": "<br>Dossier : Décembre, entre fête et defaite</br><br>Spiritualite: Noel, Mystère du salut</br><br>Esprit d’entreprise : entrepreneur, employé, c’est l’heure du bilan</br>",
+                "resume": "b",
+                "numero": 1,
+                "cover": [
+                    "upload/magazines/couv/esprit4.jpg"
+                ],
+                "image": [
+                    "aaa"
+                ],
+                "pdf": [
+                    "aaa"
+                ],
+                "video": "b",
+                "date-insertion": "b",
+                "date-publication": "b"
+            },
+            {
+                "id": 22,
+                "titre": "Esprit N° 03 d`Octobre 2016",
+                "sous-titre": "b",
+                "description": "<br>Dossier : nos enfants et les nouvelles mœurs</br><br>Spiritualité : Dieu le père d’abord</br><br>Des paroles et des armes : Maître GIMS j’ai peur des échecs</br>",
+                "resume": "b",
+                "numero": 1,
+                "cover": [
+                    "upload/magazines/couv/esprit3.jpg"
+                ],
+                "image": [
+                    "aaa"
+                ],
+                "pdf": [
+                    "aaa"
+                ],
+                "video": "b",
+                "date-insertion": "b",
+                "date-publication": "b"
+            },
+            {
+                "id": 23,
+                "titre": "Esprit N° 02 d’Août 2016",
+                "sous-titre": "b",
+                "description": "<br>Dossier : Se loger selon son état d’esprit</br><br>Spiritualité : Se préparer au mariage chrétien</br><br>Esprit d’entreprise : Marketing personnel, l’art de se vendre</br>",
+                "resume": "b",
+                "numero": 1,
+                "cover": [
+                    "upload/magazines/couv/esprit2.jpg"
+                ],
+                "image": [
+                    "aaa"
+                ],
+                "pdf": [
+                    "aaa"
+                ],
+                "video": "b",
+                "date-insertion": "b",
+                "date-publication": "b"
+            },
+            {
+                "id": 24,
+                "titre": "Esprit N° 14 d’Août 2018",
+                "sous-titre": "b",
+                "description": "<br>Rencontre d’esprit – Pathé DIONE / Président Directeur Général du Groupe SUNU: gardien du temple</br><br>Dossier / entreprises africaines: les futurs champions</br><br>Pensons positif / relations parent – enfant: fondement de la cohésion sociale</br><br>Esprit d’entreprise / prendre des vacances: une nécessité</br>",
+                "resume": "b",
+                "numero": 1,
+                "cover": [
+                    "aaa"
+                ],
+                "image": [
+                    "aaa"
+                ],
+                "pdf": [
+                    "aaa"
+                ],
+                "video": "b",
+                "date-insertion": "b",
+                "date-publication": "b"
+            },
+            {
+                "id": 25,
+                "titre": "Esprit N° 15 d’Octobre 2018",
+                "sous-titre": "b",
+                "description": "<br>Dossier / Changer de métier : Echec, opportunisme ou réalisme ?</br><br>Rencontre d’Esprit / Denise EPOTÉ, Directrice Afrique – TV5MONDE / Et si elle nous disait toute la vérité !</br><br>Spiritualité / Mariage inter religieux : Que dit le Saint Coran ?</br>",
+                "resume": "b",
+                "numero": 1,
+                "cover": [
+                    "aaa"
+                ],
+                "image": [
+                    "aaa"
+                ],
+                "pdf": [
+                    "aaa"
+                ],
+                "video": "b",
+                "date-insertion": "b",
+                "date-publication": "b"
+            },
+            {
+                "id": 26,
+                "titre": "Esprit N° 01 Juin 2016",
+                "sous-titre": "b",
+                "description": "<br>Dossier : Femmes célibataires, décidées d’être heureuses seules</br><br>Esprit d’entreprise : Pourquoi et comment le developper ?</br><br>Mindset : Vivre serein dans un monde instable</br>",
+                "resume": "b",
+                "numero": 1,
+                "cover": [
+                    "upload/magazines/couv/esprit2.jpg"
+                ],
+                "image": [
+                    "aaa"
+                ],
+                "pdf": [
+                    "aaa"
+                ],
+                "video": "b",
+                "date-insertion": "b",
+                "date-publication": "b"
+            }
+        ],
+        "articles": {
+            "une": {
+                "all": [
+                    {
+                        "id": 1,
+                        "titre": "b",
+                        "sous-titre": "b",
+                        "description": "b",
+                        "image": [
+                            "aaa"
+                        ],
+                        "video": "b",
+                        "date-insertion": "b",
+                        "date-publication": "b",
+                        "auteur": "b",
+                        "tag": [
+                            "aaa"
+                        ],
+                        "categorie": "b"
+                    }
+                ],
+                "pensons": [
+                    {
+                        "id": 1,
+                        "titre": "b",
+                        "sous-titre": "b",
+                        "description": "b",
+                        "image": [
+                            "aaa"
+                        ],
+                        "video": "b",
+                        "date-insertion": "b",
+                        "date-publication": "b",
+                        "auteur": "b",
+                        "tag": [
+                            "aaa"
+                        ],
+                        "categorie": "b"
+                    }
+                ]
+            },
+            "derniers": [
+                {
+                    "id": 1,
+                    "titre": "b",
+                    "sous-titre": "b",
+                    "description": "b",
+                    "image": [
+                        "aaa"
+                    ],
+                    "video": "b",
+                    "date-insertion": "b",
+                    "date-publication": "b",
+                    "auteur": "b",
+                    "tag": [
+                        "aaa"
+                    ],
+                    "categorie": "b"
+                }
+            ],
+            "categories": {
+                "pensons": [
+                    {
+                        "id": 1,
+                        "titre": "b",
+                        "sous-titre": "b",
+                        "description": "b",
+                        "image": [
+                            "aaa"
+                        ],
+                        "video": "b",
+                        "date-insertion": "b",
+                        "date-publication": "b",
+                        "auteur": "b",
+                        "tag": [
+                            "aaa"
+                        ],
+                        "categorie": "b"
+                    }
+                ],
+                "dossier": [
+                    {
+                        "id": 1,
+                        "titre": "b",
+                        "sous-titre": "b",
+                        "description": "b",
+                        "image": [
+                            "aaa"
+                        ],
+                        "video": "b",
+                        "date-insertion": "b",
+                        "date-publication": "b",
+                        "auteur": "b",
+                        "tag": [
+                            "aaa"
+                        ],
+                        "categorie": "b"
+                    }
+                ],
+                "rencontre": [
+                    {
+                        "id": 1,
+                        "titre": "b",
+                        "sous-titre": "b",
+                        "description": "b",
+                        "image": [
+                            "aaa"
+                        ],
+                        "video": "b",
+                        "date-insertion": "b",
+                        "date-publication": "b",
+                        "auteur": "b",
+                        "tag": [
+                            "aaa"
+                        ],
+                        "categorie": "b"
+                    }
+                ],
+                "event": [
+                    {
+                        "id": 1,
+                        "titre": "b",
+                        "sous-titre": "b",
+                        "description": "b",
+                        "image": [
+                            "aaa"
+                        ],
+                        "video": "b",
+                        "date-insertion": "b",
+                        "date-publication": "b",
+                        "auteur": "b",
+                        "tag": [
+                            "aaa"
+                        ],
+                        "categorie": "b"
+                    }
+                ],
+                "spiritualite": [
+                    {
+                        "id": 1,
+                        "titre": "b",
+                        "sous-titre": "b",
+                        "description": "b",
+                        "image": [
+                            "aaa"
+                        ],
+                        "video": "b",
+                        "date-insertion": "b",
+                        "date-publication": "b",
+                        "auteur": "b",
+                        "tag": [
+                            "aaa"
+                        ],
+                        "categorie": "b"
+                    }
+                ],
+                "epanuir": [
+                    {
+                        "id": 1,
+                        "titre": "b",
+                        "sous-titre": "b",
+                        "description": "b",
+                        "image": [
+                            "aaa"
+                        ],
+                        "video": "b",
+                        "date-insertion": "b",
+                        "date-publication": "b",
+                        "auteur": "b",
+                        "tag": [
+                            "aaa"
+                        ],
+                        "categorie": "b"
+                    }
+                ],
+                "inspirer": [
+                    {
+                        "id": 1,
+                        "titre": "b",
+                        "sous-titre": "b",
+                        "description": "b",
+                        "image": [
+                            "aaa"
+                        ],
+                        "video": "b",
+                        "date-insertion": "b",
+                        "date-publication": "b",
+                        "auteur": "b",
+                        "tag": [
+                            "aaa"
+                        ],
+                        "categorie": "b"
+                    }
+                ]
+            }
+        }
+    }
+]
